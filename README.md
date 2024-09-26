@@ -1,0 +1,1 @@
+# Reusable configurations for projects
